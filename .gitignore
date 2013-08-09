@@ -1,2 +1,11 @@
+*.class
+
 .*.swp
+
 *.*~
+
+*.class
+
+bin/*
+
+gen/*
